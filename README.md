@@ -79,6 +79,6 @@ The focus will be on production-oriented projects involving AI, automation, back
 
 ## 06 — Contact
 
-**LinkedIn:** [Lucas Gabriel Santos](https://www.linkedin.com/in/lucas-gabriel-santos-838314278/)
+**LinkedIn:** https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true
 
 Open to opportunities involving software engineering, automation and applied AI.
