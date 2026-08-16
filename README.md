@@ -79,6 +79,6 @@ The focus will be on production-oriented projects involving AI, automation, back
 
 ## 06 — Contact
 
-**LinkedIn:** https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true
+**LinkedIn:** [Lucas Gabriel Amorim](https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true)
 
 Open to opportunities involving software engineering, automation and applied AI.
