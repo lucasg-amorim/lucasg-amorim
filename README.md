@@ -1,4 +1,4 @@
-# Lucas Gabriel Santos
+# Lucas Gabriel Amorim
 
 **Applied AI · Automation · Backend Engineering**
 
