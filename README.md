@@ -25,4 +25,4 @@ Building and documenting new applied AI projects. Selected work will be publishe
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/lucas-gabriel-santos-838314278/)
+[LinkedIn](https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/)
