@@ -2,19 +2,27 @@
 
 I build backend, automation and applied AI systems with Python.
 
-Currently focused on:
-- LLM applications and AI agents
-- RAG and AI evaluation
+I'm currently studying Systems Analysis and Development at Fatec and developing production-oriented projects involving AI, APIs and automation.
+
+### Focus
+
+- Applied AI and LLM applications
+- AI agents and RAG
 - Backend APIs and integrations
+- Automation workflows
 - PostgreSQL and data systems
-- Docker, cloud and production tooling
+- AI evaluation and production tooling
 
-I'm currently studying Systems Analysis and Development at Fatec and building production-oriented projects in applied AI.
+### Stack
 
-## Projects
+`Python` `SQL` `PostgreSQL` `n8n` `Git`
 
-Projects and case studies will be added here as they are completed.
+Currently learning and applying: `FastAPI` `Docker` `AWS` `PyTorch` `Hugging Face`
 
-## Contact
+### Projects
 
-[LinkedIn][(Lucas Gabriel Amorim)](https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true)
+Building and documenting new applied AI projects. Selected work will be published here as it is completed.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucas-gabriel-santos-838314278/)
