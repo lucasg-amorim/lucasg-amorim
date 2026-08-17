@@ -17,4 +17,4 @@ Projects and case studies will be added here as they are completed.
 
 ## Contact
 
-[LinkedIn][(SEU_LINK)](https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true)
+[LinkedIn][(Lucas Gabriel Amorim)](https://www.linkedin.com/in/lucas-gabriel-amorim-838314278/?isSelfProfile=true)
